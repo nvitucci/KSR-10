@@ -1,4 +1,4 @@
-This driver was written in 2011 as a reverse engineering and USB sniffing exercise.
+This driver was written in 2011 as a reverse engineering and USB sniffing exercise (for myself).
 
 # Compile
 
